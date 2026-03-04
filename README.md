@@ -2,8 +2,6 @@
 name: Running and Orienteering Club
 title: GROC
 description: The Goddard Running and Orienteering Club has continuously hosted 2-mile and 10K runs for close to 50 years, promoting friendly competition, exercise, and team-building for GSFC employees, contractors, and their families.
-thumbnail: groc/logo.png
-categories: goddard
 
 contact-email: tom.winkert@nasa.gov
 

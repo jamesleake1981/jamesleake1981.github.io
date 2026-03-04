@@ -1,4 +1,3 @@
-# jamesleake1981.github.io
 
 ---
 title: My Page Title

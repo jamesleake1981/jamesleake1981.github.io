@@ -9,11 +9,13 @@ Welcome to my personal webpage repository. I am a [Your Profession/Interest] wit
 *   **LinkedIn:** [Your LinkedIn Profile](link_to_linkedin)
 *   **Personal Website:** [jamesleake1981.github.io](https://jamesleake1981.github.io)
 
-[Projects](#Projects)
-[Skills](#Skills)
-[GROC](#GROC)
-[Rubix Cube](#Rubix Cube)
-[Genetic Algorithms](#Genetic Algroithms)
+[Projects](#projects)
+[GROC](#groc)
+[Rubix Cube](#rubix-cube)
+[Genetic Algorithms](#genetic-algorithms)
+[Joggling](#joggling)
+[Board Game Design](#board-game-design)
+[Python](#python)
 
 
 ## Projects

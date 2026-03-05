@@ -26,25 +26,28 @@ Welcome to my personal webpage repository. I am a [Your Profession/Interest] wit
 
 ---
 
-##GROC
+## GROC
 
 ---
 
-##Rubix Cube
+## Rubix Cube
 
 ---
 
-##Genetic Algorthm
+## Genetic Algorthm
 
 ---
 
-##Joggling
+## Joggling
 
 ---
 
-##Board Game Design
+## Board Game Design
 
 ---
 
-##Python
+## Python
+
+---
+
 *This site is hosted using [GitHub Pages](https://pages.github.com/).*

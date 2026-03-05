@@ -26,13 +26,6 @@ Welcome to my personal webpage repository. I am a [Your Profession/Interest] wit
 
 ---
 
-## Skills
-
-*   **Languages:** List your programming languages (e.g., Python, JavaScript, Java)
-*   **Tools:** Mention tools you use (e.g., Git, Docker, VS Code)
-
----
-
 ##GROC
 
 ---

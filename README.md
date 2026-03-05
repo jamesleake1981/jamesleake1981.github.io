@@ -5,9 +5,15 @@ Welcome to my personal webpage repository. I am a [Your Profession/Interest] wit
 
 *   **Location:** [Your City, Country]
 *   **Email:** [jleake1981@gmail.com](mailto:jleake1981@gmail.com)
-*   **GitHub:** [@yourusername](https://github.com/jamesleake1981)
+*   **GitHub:** [@jamesleake1981](https://github.com/jamesleake1981)
 *   **LinkedIn:** [Your LinkedIn Profile](link_to_linkedin)
 *   **Personal Website:** [jamesleake1981.github.io](https://jamesleake1981.github.io)
+
+[Projects](#Projects)
+[Skills](#Skills)
+[GROC](#GROC)
+[Rubix Cube](#Rubix Cube)
+[Genetic Algorithms](#Genetic Algroithms)
 
 
 ## Projects
@@ -20,10 +26,9 @@ Welcome to my personal webpage repository. I am a [Your Profession/Interest] wit
 *   **Languages:** List your programming languages (e.g., Python, JavaScript, Java)
 *   **Tools:** Mention tools you use (e.g., Git, Docker, VS Code)
 
-## Blog/Posts
+##GROC
 
-*   [Example Blog Post Title 1](link_to_blog_post_1.md)
-*   [Example Blog Post Title 2](link_to_blog_post_2.md)
+##Rubix Cube
 
 ---
 

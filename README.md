@@ -17,21 +17,41 @@ Welcome to my personal webpage repository. I am a [Your Profession/Interest] wit
 [Board Game Design](#board-game-design)
 [Python](#python)
 
+---
 
 ## Projects
 
 *   **[Project 1 Name](link_to_project_repo):** A brief description of your project.
 *   **[Project 2 Name](link_to_project_repo):** Another brief description.
 
+---
+
 ## Skills
 
 *   **Languages:** List your programming languages (e.g., Python, JavaScript, Java)
 *   **Tools:** Mention tools you use (e.g., Git, Docker, VS Code)
 
+---
+
 ##GROC
+
+---
 
 ##Rubix Cube
 
 ---
 
+##Genetic Algorthm
+
+---
+
+##Joggling
+
+---
+
+##Board Game Design
+
+---
+
+##Python
 *This site is hosted using [GitHub Pages](https://pages.github.com/).*

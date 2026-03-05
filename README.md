@@ -1,14 +1,14 @@
-# Hi, I'm [James Leake](jamesleake1981@github.io)!
 
 Welcome to my personal webpage repository. I am a [Your Profession/Interest] with a passion for [Something you enjoy].
 
 ## About Me
 
 *   **Location:** [Your City, Country]
-*   **Email:** [your.email@example.com](mailto:your.email@example.com)
-*   **GitHub:** [@yourusername](https://github.com)
+*   **Email:** [jleake1981@gmail.com](mailto:jleake1981@gmail.com)
+*   **GitHub:** [@yourusername](https://github.com/jamesleake1981)
 *   **LinkedIn:** [Your LinkedIn Profile](link_to_linkedin)
-*   **Personal Website:** [yourusername.github.io](https://yourusername.github.io)
+*   **Personal Website:** [jamesleake1981.github.io](https://jamesleake1981.github.io)
+
 
 ## Projects
 

@@ -21,8 +21,9 @@ Welcome to my personal webpage repository. I am a [Your Profession/Interest] wit
 
 ## Projects
 
-*   **[Project 1 Name](link_to_project_repo):** A brief description of your project.
-*   **[Project 2 Name](link_to_project_repo):** Another brief description.
+*   **[World Cup SweepStakes](link_to_project_repo):** World Cup Sweepstakes python code
+
+---
 
 ---
 

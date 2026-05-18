@@ -19,9 +19,10 @@ Welcome to my personal webpage repository. I am a [Your Profession/Interest] wit
 
 ---
 
-## Projects
+## World Cup Sweepstakes
 
-*   **[World Cup SweepStakes](https://github.com/jamesleake1981/WORLD_CUP_2026_SWEEP):** World Cup Sweepstakes python code
+*   **[Link to github repo](https://github.com/jamesleake1981/WORLD_CUP_2026_SWEEP):** World Cup Sweepstakes python code
+*   
 
 ---
 

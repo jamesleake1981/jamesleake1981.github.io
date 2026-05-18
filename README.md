@@ -48,6 +48,7 @@ Welcome to my personal webpage repository. I am a NASA Astrophysicist with a pas
 
 ## Joggling
 
+* **[Link to github repo](https://github.com/jamesleake1981/JOGGLING):** Analysis of Joggling data from Garmin
 ---
 
 ## Board Game Design

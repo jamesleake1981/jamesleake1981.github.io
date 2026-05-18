@@ -1,5 +1,5 @@
 
-Welcome to my personal webpage repository. I am a [Your Profession/Interest] with a passion for [Something you enjoy].
+Welcome to my personal webpage repository. I am a NASA Astrophysicist with a passion for Science, Math, Beer, Bikes, and Board Games.
 
 ## About Me
 
@@ -9,7 +9,8 @@ Welcome to my personal webpage repository. I am a [Your Profession/Interest] wit
 *   **LinkedIn:** [Your LinkedIn Profile](link_to_linkedin)
 *   **Personal Website:** [jamesleake1981.github.io](https://jamesleake1981.github.io)
 
-[Projects](#projects)
+[World Cup Sweepstakes](#worldcup)
+[Flan Rouge](#flan_rouge)
 [GROC](#groc)
 [Rubix Cube](#rubix-cube)
 [Genetic Algorithms](#genetic-algorithms)

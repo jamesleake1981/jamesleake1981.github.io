@@ -35,6 +35,7 @@ Welcome to my personal webpage repository. I am a NASA Astrophysicist with a pas
 
 ## GROC
 
+* **[Goddard Running And Orienteering Club](https://nasa-communities.org/clubs/groc):** A link to the NASA Communities GROC page
 ---
 
 ## Rubix Cube

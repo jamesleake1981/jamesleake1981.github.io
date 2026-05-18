@@ -22,7 +22,7 @@ Welcome to my personal webpage repository. I am a [Your Profession/Interest] wit
 ## World Cup Sweepstakes
 
 *   **[Link to github repo](https://github.com/jamesleake1981/WORLD_CUP_2026_SWEEP):** World Cup Sweepstakes python code
-*   
+*   **[Latest group standings](https://github.com/jamesleake1981/WORLD_CUP_2026_SWEEP/custom_groups_sorted.txt) The Latest standings
 
 ---
 

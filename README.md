@@ -15,6 +15,7 @@ Welcome to my personal webpage repository. I am a NASA Astrophysicist with a pas
 [Rubix Cube](#rubix-cube)
 [Genetic Algorithms](#genetic-algorithms)
 [Joggling](#joggling)
+[Shut the Box](#joggling)
 [Board Game Design](#board-game-design)
 
 ---
@@ -47,6 +48,10 @@ Welcome to my personal webpage repository. I am a NASA Astrophysicist with a pas
 * **[Link to github repo](https://github.com/jamesleake1981/~GENETIC_ALGORITHMS):** Python routines investigating genetic algorithms
 
 ---
+
+## SHUT THE BOX
+
+* **[Link to github repo](https://github.com/jamesleake1981/SHUT_THE_BOX):** Python routines to analyze the game
 
 ## Joggling
 

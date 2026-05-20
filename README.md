@@ -16,7 +16,6 @@ Welcome to my personal webpage repository. I am a NASA Astrophysicist with a pas
 [Genetic Algorithms](#genetic-algorithms)
 [Joggling](#joggling)
 [Board Game Design](#board-game-design)
-[Python](#python)
 
 ---
 
@@ -36,26 +35,26 @@ Welcome to my personal webpage repository. I am a NASA Astrophysicist with a pas
 ## GROC
 
 * **[Goddard Running And Orienteering Club](https://nasa-communities.org/clubs/groc):** A link to the NASA Communities GROC page
+  
 ---
 
 ## Rubix Cube
 
 ---
 
-## Genetic Algorthm
+## Genetic Algorthms
+
+* **[Link to github repo](https://github.com/jamesleake1981/~GENETIC_ALGORITHMS):** Python routines investigating genetic algorithms
 
 ---
 
 ## Joggling
 
 * **[Link to github repo](https://github.com/jamesleake1981/JOGGLING):** Analysis of Joggling data from Garmin
+  
 ---
 
 ## Board Game Design
-
----
-
-## Python
 
 ---
 
